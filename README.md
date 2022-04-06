@@ -8,9 +8,9 @@
     <br />
     <a href="https://telegram.dog/TG_FileStreamBot"><strong>Demo Bot »</strong></a>
     <br />
-    <a href="https://github.com/EverythingSuckz/TG-FileStreamBot/issues">Report a Bug</a>
+    <a href="https://github.com/zoravar08/TG-FileStreamBot/issues">Report a Bug</a>
     |
-    <a href="https://github.com/EverythingSuckz/TG-FileStreamBot/issues">Request Feature</a>
+    <a href="https://github.com/zoravar08/TG-FileStreamBot/issues">Request Feature</a>
   </p>
 </p>
 
@@ -47,7 +47,7 @@
 ## About This Bot
 
 <p align="center">
-    <a herf="https://github.com/EverythingSuckz/TG-FileStreamBot">
+    <a herf="https://github.com/zoravar08/TG-FileStreamBot">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
